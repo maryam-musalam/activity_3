@@ -7,7 +7,7 @@ class Udacian():
           self.udacian_ststus = ststus
 
       def print_udacian(self):
-          print(self.udacian_name+" is " + self.udacian_entrollment+ " in "+ self.udacian_city+ " studying "+ self.udacian_nanodegree + "he/she is " + self.udacian_ststus)
+          print(self.udacian_name+" is " + self.udacian_entrollment+ " in "+ self.udacian_city+ " studying "+ self.udacian_nanodegree + " he/she is " + self.udacian_ststus)
 
 
 enterd_name = input("Input name: ")
