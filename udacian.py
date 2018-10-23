@@ -16,3 +16,4 @@ enterd_nanodegree = input("Input nanodegree(ex: FSND in sat with Ms. elham ): ")
 enterd_status =input("Input status(ex:ontrack - not in track): ")
 
 user = Udacian(enterd_name ,enterd_city , "entrolled" , enterd_nanodegree , enterd_status)
+user.print_udacian()
